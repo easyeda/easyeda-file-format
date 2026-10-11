@@ -9,7 +9,7 @@ The EasyEDA Pro file format is used to describe design data such as projects, sc
 > 提示：最新版本的嘉立创EDA专业版文档格式说明请参考：https://github.com/easyeda/easyeda-format-skill  
 > Notice: The latest file format of EasyEDA Pro please reference at https://github.com/easyeda/easyeda-format-skill
 
-“epro2” 格式是嘉立创EDA专业版V3寄以上版本的工程归档格式，在线版编辑器和离线客户端（离线客户端默认使用 "eprj2" 后缀的 SQLite 文件存储）均支持导出，是一个zip压缩包。
+“epro2” 格式是嘉立创EDA专业版V3及以上版本的工程归档格式，在线版编辑器和离线客户端（离线客户端默认使用 "eprj2" 后缀的 SQLite 文件存储）均支持导出，是一个zip压缩包。
 
 The "epro2" format is the project archive format for the versions V3 and above of EasyEDA Pro. Both the online editor and the offline client (which by default uses SQLite files with the "eprj2" suffix for storage) support exporting in a zip archive format.
 The project package uses the **zip compression format** for the following advantages:
